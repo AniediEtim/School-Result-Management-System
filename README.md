@@ -95,8 +95,6 @@ If an invalid score is entered, an error message is displayed and the user must 
 
 ![Data Validation](screenshots/03_Data_Validation.jpg)
 
----
-
 ## 4. Print Preview
 
 The workbook is designed to fit neatly on a single A4 landscape page for professional printing.
