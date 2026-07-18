@@ -2,20 +2,25 @@
 
 ## Overview
 
-This project is a Microsoft Excel result management system developed for a secondary school.
+This project is a Microsoft Excel Result Management System developed for a secondary school.
 
-It was designed to make result preparation easier, improve accuracy, and reduce manual calculation errors while maintaining data integrity.
+It helps teachers prepare student results more accurately by reducing manual calculation errors and maintaining data integrity.
 
-## Key Features
+## Features
 
-- Teachers enter Continuous Assessment (CA) and Examination scores manually.
-- Automatic calculation of totals, grades, remarks, averages, and cumulative results.
-- Data validation to prevent entering scores above the approved maximum.
-- Protected formulas and worksheets to maintain data integrity.
-- One worksheet per student for easy record management.
-- Professional print-ready result layout.
+- Manual entry of Continuous Assessment (CA) and Examination scores
+- Automatic calculation of:
+  - Total Score
+  - Grade
+  - Remark
+  - Average
+  - Cumulative Result
+- Data validation to prevent invalid score entry
+- Protected formulas to prevent accidental editing
+- Professional print-ready result sheet
+- One worksheet per student
 
-## Microsoft Excel Features Used
+## Microsoft Excel Functions Used
 
 - IF
 - SUM
@@ -25,28 +30,26 @@ It was designed to make result preparation easier, improve accuracy, and reduce 
 - Data Validation
 - Worksheet Protection
 - Conditional Logic
-- Formula Automation
 
 ## Skills Demonstrated
 
 - Microsoft Excel
-- Advanced Formula Design
+- Advanced Excel Formulas
 - Data Validation
 - Worksheet Protection
-- Data Integrity
-- Report Design
-- Problem Solving
 - Result Processing
+- Report Design
+- Data Integrity
 
-## Why I Built This Project
+## Project Screenshots
 
-The goal of this project was to reduce manual calculation errors, improve consistency, and make result preparation easier for teachers.
+### Result Sheet
 
+![Result Sheet](screenshots/01_JSS1_Result_Sheet.jpg)
 
-## Screenshots
+### Result Layout
 
-Screenshots of the workbook are included in the `screenshots` folder.
-
+![Result Layout](screenshots/02_JSS1_Result_Sheet_Page2.jpg)
 
 ## Author
 
